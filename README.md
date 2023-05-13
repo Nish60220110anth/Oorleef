@@ -34,6 +34,7 @@ Our game is expected to help the targeted audience better understand and reflect
 The machine requires an NVIDIA RTX card with 32 GB CPU RAM for smooth running of the game engine along with a CPU of i7 series or higher.
 
 ## Installation Instruction 
+(**Note**): Don't directly clone the repo. This repo uses git-lfs to store the large assets generated as part of game.
 
 This game is packaged inside single executable ,so there is not requirement for any installation procedure. But make sure that the executable is executed in the working directory which is the initial directory in the submitted folder, so thus the relative path referenced to assets doesn't become invalid.
 
